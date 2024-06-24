@@ -1,7 +1,7 @@
+title: "My Portfolio"
 title: "Shree Ganesh Wooradi"
 author: "Shree Ganesh Wooradi"
 description: "My Personal Website for all Projects and Articles at one place" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "ganeshprime5@mail.com"
@@ -13,12 +13,10 @@ linkedin_username: "shree-ganesh-wooradi"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-
 
 kramdown:
   syntax_highlighter_opts:
@@ -27,11 +25,9 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
 titles_from_headings:
   strip_title: true
   collections: true
-
 defaults:
   - scope:
       path: ""
