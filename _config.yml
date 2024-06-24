@@ -19,7 +19,9 @@ linkedin_username: "shree-ganesh-wooradi"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+header_pages:
+ - home.md
+ - about.md
 
 kramdown:
   syntax_highlighter_opts:
