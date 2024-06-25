@@ -1,1 +1,1 @@
-Hello There, Welcome to my portfolio website where you can find my work at one place. 
+Hello there, Welcome to my Blog and Portfolio website, where you can find all of my work in one place.
